@@ -65,7 +65,7 @@ referencing
 regex==2023.8.8
 requests==2.31.0
 rlp==3.0.0
-rpds-py==0.10.2
+rpds-py
 rsa==4.9
 six==1.16.0
 toolz==0.12.0
