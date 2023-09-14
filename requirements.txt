@@ -75,4 +75,4 @@ web3==6.9.0
 websockets==11.0.3
 werkzeug
 yarl==1.9.2
-zipp==3.16.2
+zipp
