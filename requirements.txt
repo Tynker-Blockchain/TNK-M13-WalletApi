@@ -24,7 +24,7 @@ eth-utils==2.2.0
 firebase-admin==6.2.0
 flask
 Flask-Cors
-frozenlist==1.4.0
+frozenlist
 google-api-core==2.11.1
 google-api-python-client==2.98.0
 google-auth==2.22.0
