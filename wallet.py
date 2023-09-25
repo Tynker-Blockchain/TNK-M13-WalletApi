@@ -46,7 +46,7 @@ class Wallet():
         transaction = {
             "to": receiverAddress,
             "value": web3.to_wei(amount, "ether"),
-            # "nonce": web3.eth.get_transaction_count(senderAddress), 
+            "nonce": web3.eth.get_transaction_count(senderAddress), 
             "gasPrice": web3.to_wei(10, 'gwei'),
             "gas": 21000 
         }
